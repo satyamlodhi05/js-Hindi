@@ -1,0 +1,2 @@
+# js-Hindi
+javascript knowledge
